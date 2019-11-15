@@ -1,0 +1,5 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/contextMenuIncEpisode" android:title="@string/lblIncEpisode"/>
+    <item android:id="@+id/contextMenuIncSeason" android:title="@string/lblIncSeason"/>
+</menu>
