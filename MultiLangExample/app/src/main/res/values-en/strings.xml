@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Example Multi Language</string>
+    <string name="english">Inglés</string>
+    <string name="hello_world">Hola Mundo!!</string>
+    <string name="select_language">Selecciona tu idioma</string>
+    <string name="spanish">Español</string>
+    <string-array name="languages" >
+        <item>@string/spanish</item>
+        <item>@string/english</item>
+    </string-array>
+</resources>
