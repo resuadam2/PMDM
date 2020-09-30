@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tema1Ejer2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="product">x</string>
+    <string name="result">RESULT</string>
+    <string name="first_number">Introduce the first number</string>
+    <string name="second_number">Introduce the second number</string>
+</resources>

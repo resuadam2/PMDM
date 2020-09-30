@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tema1Ejer5</string>
+    <string name="explain">This is an example App to demostrate the use of the Activity\'s Lifecycle using Toast Messages.</string>
+</resources>
