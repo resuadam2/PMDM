@@ -2,8 +2,11 @@
 
 Repositorio con ejemplos del profesor.
 
-
 Relación de ejemplos con el temario:
+- *HelloWorldDam*, *Tema1Ejer2* y *Tema1Ejer5* ejercicios resueltos tema 1
+
+
+Relación de ejemplos con la documentación:
 
 - *ListaCompra2* ejemplos de Tema Multiactividad en Android
 - *AndroidTime* ejemplo Tema Conexión a Internet en Android
