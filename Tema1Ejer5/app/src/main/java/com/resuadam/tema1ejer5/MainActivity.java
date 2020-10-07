@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         Toast msg = new Toast(this);
         msg.makeText(this, "Hi! I am onCreate()!", Toast.LENGTH_SHORT).show();
+        // Toast.makeText(this, "Hi! ...", Toast.LENGTH_SHORT).show();
     }
 
     @Override
