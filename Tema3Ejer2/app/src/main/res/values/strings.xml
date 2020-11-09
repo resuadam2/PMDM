@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tema3Ejer2</string>
+    <string name="lblNombre">Nombre</string>
+    <string name="lblDireccion">Dirección</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblSurname">Apellido</string>
+    <string name="lblTelf">Teléfono</string>
+</resources>
