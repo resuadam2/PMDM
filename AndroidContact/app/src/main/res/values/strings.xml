@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidContact</string>
+    <string name="lblOk">Ok</string>
+    <string name="lblCancel">Cancel</string>
+    <string name="lblDelete">Delete</string>
+    <string name="lblModify">Modify</string>
+    <string name="lblName">Name</string>
+    <string name="lblPhone">Phone</string>
+    <string name="lblCall">Call</string>
+    <string name="msgNoContacts">No contacts</string>
+    <string name="msgInvalidPosition">Invalid position</string>
+    <string name="msgNoCall">It is not possible to make calls.</string>
+</resources>

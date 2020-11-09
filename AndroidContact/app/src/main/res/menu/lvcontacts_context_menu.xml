@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/lvcontacts_menu_item_delete" android:title="@string/lblDelete"/>
+    <item android:id="@+id/lvcontacts_menu_item_modify" android:title="@string/lblModify"/>
+    <item android:id="@+id/lvcontacts_menu_item_call" android:title="@string/lblCall"/>
+</menu>

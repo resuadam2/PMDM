@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BurguerBuilder</string>
+    <string name="lblTotal">Total</string>
+    <string name="lblAdd">Añadir</string>
+    <string name="lblRemove">Eliminar</string>
+    <string name="lblBurguer">Burguer</string>
+    <string name="lblIngredientSelection">Select ingredients</string>
+    <string name="lblCurrency">€</string>
+    <string name="lblPrices">Prices</string>
+    <string name="lblExit">Salir</string>
+</resources>

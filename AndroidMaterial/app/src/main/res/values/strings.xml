@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Android Material Example</string>
+    <string name="add_button">Añadir</string>
+    <string name="update_button">Editar</string>
+    <string name="delete_button">Borrar</string>
+    <string name="fab">Añadir</string>
+    <string name="title_activity_transition_edit">Editar Nombre</string>
+    <string name="title_activity_transition_add">Añadir Nombre</string>
+
+    <string-array name="names_array">
+        <item>Michael</item>
+        <item>Jules</item>
+        <item>Chris</item>
+        <item>Amy</item>
+        <item>Jason</item>
+        <item>Melissa</item>
+        <item>David</item>
+        <item>Michelle</item>
+        <item>James</item>
+        <item>Kimberly</item>
+        <item>James</item>
+        <item>Lisa</item>
+        <item>Robert</item>
+        <item>Summer</item>
+        <item>Brian</item>
+        <item>William</item>
+        <item>Britney</item>
+        <item>Elissa</item>
+        <item>Matt</item>
+        <item>Nicole</item>
+        <item>Josh</item>
+        <item>Jessica</item>
+        <item>Daniel</item>
+        <item>Elizabeth</item>
+        <item>Kevin</item>
+        <item>Rose</item>
+        <item>Wilson</item>
+        <item>Kelly</item>
+        <item>Jeffrey</item>
+        <item>Mary</item>
+        <item>Richard</item>
+        <item>Christina</item>
+        <item>Scott</item>
+        <item>Amanda</item>
+        <item>Mark</item>
+        <item>Julie</item>
+        <item>Thomas</item>
+        <item>Laura</item>
+        <item>Tommy</item>
+        <item>Shannon</item>
+        <item>Anthony</item>
+        <item>Christine</item>
+        <item>Charles</item>
+        <item>Tanya</item>
+        <item>Jeremy</item>
+        <item>Tracy</item>
+        <item>Ryan</item>
+        <item>Karen</item>
+        <item>Joules</item>
+        <item>Danny</item>
+    </string-array>
+</resources>

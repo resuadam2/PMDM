@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/opNegativo"
+        android:id="@+id/context_op_negativo" />
+    <item android:title="@string/opCuadrado"
+        android:id="@+id/context_op_cuadrado" />
+    <item android:title="@string/opRaiz"
+        android:id="@+id/context_op_raiz" />
+</menu>
