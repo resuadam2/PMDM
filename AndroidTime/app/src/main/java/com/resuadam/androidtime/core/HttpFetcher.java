@@ -14,7 +14,6 @@ import java.net.URL;
 
 /**
  * Fetches the time from GeoNames
- * Created by baltasarq on 4/12/15.
  */
 public class HttpFetcher extends AsyncTask<URL, Void, Boolean> {
     public static final String LOG_TAG = "HttpFetcher";
